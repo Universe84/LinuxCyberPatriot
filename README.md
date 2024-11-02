@@ -4,7 +4,7 @@
 
 ## Install Updates
 
-`apt-get update && apt-get upgrade && apt-get dist-upgrade`
+```apt-get update && apt-get upgrade && apt-get dist-upgrade```
 
 ##
 
