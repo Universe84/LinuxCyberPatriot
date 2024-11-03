@@ -2,7 +2,7 @@
 
 - Read README
 - Do Forensic Questions First (Info can be lost if not done first)
-- Remove Bad Software (FreeCiv)
+- Remove Bad Software (FreeCiv) or any of these programs (nmap zenmap apache2 nginx lighttpd wireshark tcpdump netcat-traditional nikto ophcrack)
 - Update Services Specified in the README
 - $Word means replace it with the needed thing
 ## Install Updates
